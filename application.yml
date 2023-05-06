@@ -1,0 +1,2 @@
+config-consumer-service:
+  level: INFO
