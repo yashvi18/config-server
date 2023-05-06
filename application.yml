@@ -1,2 +1,2 @@
-config-consumer-service:
-  level: INFO
+my:
+  greeting: Hello world from config server
