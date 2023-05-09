@@ -1,2 +1,3 @@
 welcome:
   message: Welcome from config server! Successful
+level: INFO
