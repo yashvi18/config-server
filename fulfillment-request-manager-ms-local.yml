@@ -1,3 +1,4 @@
 welcome:
-  message: Welcome from config server! Successful
-level: INFO
+  message: Welcome from local config server! Successful
+config-consumer-service:
+  level: "INFO"
