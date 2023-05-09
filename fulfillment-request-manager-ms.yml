@@ -1,2 +1,4 @@
 welcome:
   message: Welcome from config server! Successful
+config-consumer-service:
+  level: "INFO"
